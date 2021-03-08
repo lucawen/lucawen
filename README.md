@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, rust, vuejs, react, docker, kubernetes, gke**
 
-- 📫 How to reach me **contato@wakecloud.net**
+- 📫 How to reach me **luca@wakecloud.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
